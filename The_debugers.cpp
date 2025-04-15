@@ -78,15 +78,7 @@ void saveHighScore(int score) {
 
 void showStartScreen() {
     system("cls");
-     setColor(10);
-    cout << R"(
-     ____        _     _     _
-    |  _ \ _   | |_ | |__ () __
-    | |) | | | | ' \| '_ \| | '_ \
-    |  _/| || | |) | |) | | | | |
-    ||    \,|./|./||| |_|
-
-)";
+    
     setColor(12);
     cout << "Simple Console Pong Game\n";
     cout << "------------------------\n";
