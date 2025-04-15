@@ -90,10 +90,9 @@ A console-based pong-style game written in C++ using Windows-specific libraries.
 
 ## 👥 Group Members
 
-- 👤 [Your Name Here]
-- 👤 [Teammate 1]
-- 👤 [Teammate 2]
-- 👤 [Teammate 3]
+- 👤 Member 1 Name:-Thakor Bhavunkumar ID:-202401113
+- 👤 Member 2 Name:-Kodavla Harshkumar ID:-202401121
+- 👤 Member 3 Name:-Panchal Harsh      ID:-202401134
 
 ---
 
